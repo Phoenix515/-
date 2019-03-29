@@ -1,21 +1,21 @@
 <!DOCTYPE htma>
 <htma>
      <head><meta charset="utf-8">
-        <title>Arab Games</title>
+        <title>EIan</title>
         </head>
           <boody dir="rtl">
                <div>
                     <h2>
-                      Arab Games
+                      EIan
                       </h2>
                     </div>
                     <div>
-                          <a href="https://discord.gg/V7wZvaH>
-                             <p>ربط سيرفر دسكورد Arab Games</p>
-                                    <p> قوانين سيرفر Arab Games</p>
+                          <a href="https://discord.gg/v7xkwXe"
+                             <p>ربط سيرفر دسكوردEIan</p>
+                             <p> قوانين سيرفرEIan</p>
                      </a>
                </div>
                <div>
                <button>قوانين السيرفر</button>
                <p>
-            
+                
